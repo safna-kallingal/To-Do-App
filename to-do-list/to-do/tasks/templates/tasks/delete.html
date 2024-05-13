@@ -1,0 +1,7 @@
+<div style="background-color: lightgrey; padding: 20px;">
+<center><p><b>Are you sure you want to delete the task"<i>{{ item }}</i>"?</b></p>
+<a href="{% url 'list' %}">Cancel</a><br><br>
+<form method="POST" action=""> 
+	{% csrf_token %}
+	<input type="submit" name="confirm">
+</form></center>

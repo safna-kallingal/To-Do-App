@@ -1,0 +1,8 @@
+<div style="background-color: lightgrey; padding: 20px;">
+<center><h3>Update task</h3>
+
+<form method="POST" action="">
+	{% csrf_token %}
+	{{ form }}
+	<input type="submit" name="Update Task">
+</form>
