@@ -5,12 +5,20 @@ Created a simple To-Do App to Add,Update/Edit and Delete a task.
 ![Screenshot 2024-05-13 120544](https://github.com/safna-kallingal/To-Do-App/assets/97272108/c1e8c14d-2c65-449d-bb89-f91f5a743d59)
 
 
+
 # Tech stack :
+
 Python
+
 Django
+
 HTML
+
 CSS
+
 SQLite3
+
+# Steps:
 
 1- Create project :
   
