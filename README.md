@@ -36,4 +36,7 @@ python manage.py runserver
 
 4- Open your web browser and go to http:  //localhost:8000 to access the To-Do App web page.
 
-5- Exported to secret gist
+5- Exported to secret gist:
+
+![Screenshot 2024-05-13 145934](https://github.com/safna-kallingal/To-Do-App/assets/97272108/d77d6286-473b-4d39-bcf1-7064d4d0b623)
+
